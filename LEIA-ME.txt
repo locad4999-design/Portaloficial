@@ -1,0 +1,27 @@
+SITE CAROLINA CARDOSO DE MENEZES MENDES
+
+Arquivos:
+- index.html: página inicial
+- sobre.html: página institucional
+- politica-de-privacidade.html: política de privacidade
+- termos-de-uso.html: termos de uso
+- styles.css: estilos personalizados
+- assets/: imagens enviadas
+
+Como publicar:
+1. Extraia o ZIP.
+2. Envie todos os arquivos e a pasta assets para a mesma pasta pública da hospedagem.
+3. Mantenha a estrutura de pastas e nomes.
+4. Abra o domínio para testar todas as páginas e links.
+
+Observações importantes antes de anunciar:
+- Confirme que o telefone informado também recebe mensagens pelo WhatsApp.
+- Confirme endereço, e-mail, CNPJ, data de abertura e situação cadastral.
+- A política de privacidade é um modelo inicial. Atualize-a caso instale Google Analytics, Google Ads/remarketing, pixels, formulários, cookies ou outros serviços de terceiros.
+- Verifique se as imagens podem ser utilizadas comercialmente e se representam corretamente o estabelecimento.
+- Não anuncie serviços, preços, horários ou resultados que não sejam efetivamente oferecidos.
+- Bootstrap, Bootstrap Icons e Google Fonts são carregados de CDNs externas; o site precisa de internet para exibir esses recursos.
+
+Imagens adicionais da galeria:
+- assets/salao-moderno.jpg
+- assets/manicure-pedicure.jpg
